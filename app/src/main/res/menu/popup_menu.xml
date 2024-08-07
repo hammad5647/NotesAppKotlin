@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/recycle_bin"
+        android:icon="@drawable/baseline_delete_24"
+        android:title="recycle bin" />
+    <item android:title="Light Mode"
+        android:icon="@drawable/baseline_light_mode_24"
+        android:id="@+id/lightTheme"/>
+
+    <item
+        android:id="@+id/darkTheme"
+        android:icon="@drawable/baseline_dark_mode_24"
+        android:title="Dark Mode"
+        />
+
+</menu>
